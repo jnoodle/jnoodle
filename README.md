@@ -1,1 +1,1 @@
-![github-jnoodle](https://github.com/jnoodle/jnoodle/raw/master/git-jnoodle.svg)
+![github-jnoodle](https://github.com/jnoodle/jnoodle/raw/master/github-jnoodle.png)
